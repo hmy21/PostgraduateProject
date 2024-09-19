@@ -22,5 +22,7 @@ Introduction  (**Wickham Theatre**)
 
 the essential lesson in the first lesson in VE is download the Maya. I think I could learn on the video website.(before the 9.19lesson)
 
+#### 9.19 VE Design
 
+Learnt the Maya's basic operation: W, E, R, Space, Shift... I reakon that I should learn it more and exercise it  which makes me more skillful.
 
