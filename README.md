@@ -40,6 +40,27 @@ We have gotten a team which is 6 people in there to complete a team work
 
 Told the history of VR and AR.
 
+(homework)
+
+One significant milestone in the history of virtual reality (VR) and immersive technology was the creation of **"The Sword of Damocles" (1968)**, often considered the first true VR/AR system. Developed by **Ivan Sutherland** and his student **Bob Sproull** at MIT, this device was a pioneering step in both virtual and augmented reality.
+
+**Key Aspects:**
+
+- **The Device**: "The Sword of Damocles" was a head-mounted display (HMD) that could project simple wireframe graphics in 3D space. The name derived from the device's appearance, as it was large and required suspension from the ceiling to support its weight.
+- **Technological Innovation**: It utilized real-time computer-generated graphics combined with head-tracking technology, which allowed users to see virtual objects from different perspectives as they moved their head.
+- **Mixed Reality**: Though it is primarily considered an early form of VR, "The Sword of Damocles" also laid the foundation for augmented reality (AR) by overlaying virtual objects onto the real world, making it one of the first devices to explore both realms.
+
+**Significance:**
+
+- This project was groundbreaking in that it introduced the idea of immersion into a virtual space with real-time interaction. Despite its limitations in computing power and graphical fidelity, it was the first system to attempt creating an immersive digital environment that responded dynamically to the user's movements.
+- It established the concept of VR as an interactive experience rather than passive media, influencing future developments in both VR and AR technologies.
+
+**Long-term Impact:**
+
+- Sutherland's vision of creating virtual experiences through computing power laid the groundwork for many of the modern developments in VR and immersive technologies that followed. It inspired research and development that ultimately led to the VR systems we have today, including consumer-level headsets like the Oculus Rift and HTC Vive.
+
+This moment marks the birth of immersive technology and its long-standing influence on digital art, gaming, and simulation technologies in the decades that followed.
+
 
 
 **VE Design**
