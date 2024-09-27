@@ -1,5 +1,5 @@
 # Postgraduate Project in Immersing Technolog
-[Github homePage]([url](https://github.com/hmy21))
+[Github homePage](https://github.com/hmy21)
 
 [![timetable](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240917173301239.png)]()
 
@@ -88,4 +88,4 @@ In the class of morning, Caris remains me a lecture about 2000 words. There are 
 
 In the Introduction lesson of afternoon, it told me that we should discuss something, and allocated me a work of take movies.
 
-  do some profile work: https://github.com/github-education-experiences/launchpad-profile-readme
+  [do some profile work](https://github.com/github-education-experiences/launchpad-profile-readme)
