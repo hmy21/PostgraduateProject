@@ -1,6 +1,7 @@
-# Postgraduate Project in Immersing Technology
+# Postgraduate Project in Immersing Technolog
+[Github homePage]([url](https://github.com/hmy21))
 
-[![image-20240917173301239](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240917173301239.png)]()
+[![timetable](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240917173301239.png)]()
 
 #### this is some contexts of [my postgraduate career](https://www.ole.bris.ac.uk/ultra/course) in University of Bristol.
 
@@ -86,3 +87,5 @@ I was late in this lesson for abould whole one hours.
 In the class of morning, Caris remains me a lecture about 2000 words. There are 2 photos i whill transfer to here.
 
 In the Introduction lesson of afternoon, it told me that we should discuss something, and allocated me a work of take movies.
+
+  do some profile work: https://github.com/github-education-experiences/launchpad-profile-readme
