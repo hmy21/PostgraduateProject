@@ -76,3 +76,13 @@ Action items
 • [] Explore subdividing objects and using edge loops to add detail.
 • [] Practice modeling a human head shape from a basic sphere.
 • [] Review the lab exercises on Thursday to further develop these modeling techniques.
+
+
+#### 9.27
+
+**Introductions**
+
+I was late in this lesson for abould whole one hours.
+In the class of morning, Caris remains me a lecture about 2000 words. There are 2 photos i whill transfer to here.
+
+In the Introduction lesson of afternoon, it told me that we should discuss something, and allocated me a work of take movies.
