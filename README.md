@@ -83,9 +83,25 @@ Action items
 
 **Introductions**
 
-I was late in this lesson for abould whole one hours.
+I was late in this lesson for about whole one hours.
 In the class of morning, Caris remains me a lecture about 2000 words. There are 2 photos i whill transfer to here.
 
 In the Introduction lesson of afternoon, it told me that we should discuss something, and allocated me a work of take movies.
 
   [do some profile work](https://github.com/github-education-experiences/launchpad-profile-readme)
+
+Davinci connect to the VR class
+
+
+
+#### 10.1
+
+**Maya**
+
+The instruction of 套索  +B set the soft degree Shift (duplicate and multiple choose) 
+
+import a picture  layer  c attachment  circle line multi divide Shift/ Ctrl + Shift
+
+**headset**
+
+how the instal360 device transfer the video to the laptop? The Davinci can use the SSD to laptop and set in the SSD 
