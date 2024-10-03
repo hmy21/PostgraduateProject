@@ -105,3 +105,9 @@ import a picture  layer  c attachment  circle line multi divide Shift/ Ctrl + Sh
 **headset**
 
 how the instal360 device transfer the video to the laptop? The Davinci can use the SSD to laptop and set in the SSD 
+
+#### 10.3
+**VE Design**
+group parents and childs  detach from the original model 
+
+**Google Developer Group**
