@@ -110,4 +110,11 @@ how the instal360 device transfer the video to the laptop? The Davinci can use t
 **VE Design**
 group parents and childs  detach from the original model 
 
-**Google Developer Group**
+#### 10.4
+**Intro before noon** 
+what make you have the ethmpathy?
+Thought of how to write the 2500 essay
+
+**Intro Afternoon**
+how to cut the video
+discuss how to take the video. Try it 
