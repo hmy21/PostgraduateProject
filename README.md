@@ -118,3 +118,12 @@ Thought of how to write the 2500 essay
 **Intro Afternoon**
 how to cut the video
 discuss how to take the video. Try it 
+
+#### 10.7
+**Movie part 2 Library**
+remenber to export from smart phone 
+
+**lesson for Msc: Unity** 
+[the home of Chris Bevan](http://chrisbevan.co.uk/#work)
+version: 2022.3.6.f1 check out my laptop and found this version. I think it is updated caz the last year I have the lesson of it 
+try to create a new VR project on the Unity
