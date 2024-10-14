@@ -127,3 +127,14 @@ remenber to export from smart phone
 [the home of Chris Bevan](http://chrisbevan.co.uk/#work)
 version: 2022.3.6.f1 check out my laptop and found this version. I think it is updated caz the last year I have the lesson of it 
 try to create a new VR project on the [Unity](https://cloud.unity.com/)
+
+
+#### 10.7
+**Movie part 2 Library**
+remenber to export from smart phone 
+
+**lesson for Msc: Unity** 
+[the home of Chris Bevan](http://chrisbevan.co.uk/#work)
+version: 2022.3.6.f1 check out my laptop and found this version. I think it is updated caz the last year I have the lesson of it 
+try to create a new VR project on the Unity
+
