@@ -138,3 +138,7 @@ remenber to export from smart phone
 version: 2022.3.6.f1 check out my laptop and found this version. I think it is updated caz the last year I have the lesson of it 
 try to create a new VR project on the Unity
 
+#### 10.18
+**Advise from tutor**
+the resume should not use the photo aboard. The extern experience that should not talk about what u lernt rather than how essential what you do for the company
+the decision and the contrast of these things
